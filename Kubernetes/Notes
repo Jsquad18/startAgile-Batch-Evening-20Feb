@@ -122,7 +122,7 @@ Execute the below commands to setup kubectl and apiserver communication
    kubectl apply -f https://raw.githubusercontent.com/projectcalico/calico/v3.24.1/manifests/calico.yaml
 
    # Validate:  kubectl get nodes
-
+---------------------------------------------------------------------------------------------------------------------------------------------
 On All Worker Nodes
 ## Install Containerd
 # sudo su -
