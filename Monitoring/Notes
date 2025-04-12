@@ -162,7 +162,7 @@ Save the file
 
 After changes any configuration file we need to restart our prometheus
 sudo systemctl restart prometheus.service
-
+===============================================================================================================================================================
 Step #3:Install Grafana on Ubuntu 22.04 LTS
 Download the Grafana GPG key with wget, then pipe the output to apt-key. This will add the key to your APT installation’s list of trusted keys, which will allow you to download and verify the GPG-signed Grafana package:
 
